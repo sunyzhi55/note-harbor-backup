@@ -107,6 +107,4 @@ cd note-harbor-backup
 
 ## 📌 9. Star History
 
-![AcwingTemplate](https://api.star-history.com/svg?repos=sunyzhi55/note-harbor-backup&type=date&legend=top-left)
-
-
+[![Star History Chart](https://api.star-history.com/chart?repos=sunyzhi55/note-harbor-backup&type=date&legend=top-left)](https://www.star-history.com/?repos=sunyzhi55%2Fnote-harbor-backup&type=date&legend=top-left)
