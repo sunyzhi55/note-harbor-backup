@@ -4,15 +4,32 @@ tags:
   - Study Notes
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8CC,50:5BC0DE,100:A27BFF&height=240&section=header&text=Note%20Harbor%20Backup%20📚&fontSize=44&animation=twinkling&fontAlignY=48&fontColor=C70DFF" width="100%" alt="Header Banner" />
+</div>
+
 # Note Harbor Backup 📚
 
-欢迎来到我的个人学习笔记备份库！这是一个系统化的笔记管理项目，用于备份和展示我在学习过程中积累的各类知识笔记。
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="./assets/cover_img1.png" width="100%" alt="Avatar 1" />  
+</div>
+
+<br />
+
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="./assets/cover_img2.png" width="100%" alt="Avatar 2" />
+</div>
 
 ---
 
-**最后更新时间**：2026年5月17日
+<p align="center">📚 欢迎来到我的个人学习笔记备份库 ✨</p>
+<p align="center">🧭 这里汇集了我在学习过程中沉淀的算法、计算机基础与生活随笔。</p>
 
-> 💡 **提示**：这是一个不断完善的项目。欢迎 Star 和 Fork！
+> 💡 **提示**：仓库仍在持续整理与完善中，欢迎 ⭐ Star 和 🍴 Fork，一起把这份知识地图补全。
+
+---
+
+**最后更新时间**：2026年5月22日
 
 ---
 
